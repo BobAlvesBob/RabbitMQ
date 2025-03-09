@@ -1,2 +1,3 @@
-com\test\rabbitmqtest\DTO\EstoqueDTO.class
-com\test\rabbitmqtest\constantes\RabbitMQConstantes.class
+DTO\PrecoDTO.class
+constantes\RabbitMQConstantes.class
+DTO\EstoqueDTO.class

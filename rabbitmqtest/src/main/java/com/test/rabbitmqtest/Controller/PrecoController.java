@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.test.rabbitmqtest.Service.RabbitMQService;
 import DTO.PrecoDTO;
 import org.springframework.web.bind.annotation.PutMapping;
-import com.test.rabbitmqtest.constantes.RabbitMQConstantes;
+import constantes.RabbitMQConstantes;
 
 
 

@@ -4,7 +4,7 @@ import org.springframework.amqp.core.DirectExchange;
 import org.springframework.amqp.core.Queue;
 import org.springframework.stereotype.Component;
 
-import com.test.rabbitmqtest.constantes.RabbitMQConstantes;
+import constantes.RabbitMQConstantes;
 
 import jakarta.annotation.PostConstruct;
 

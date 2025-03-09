@@ -1,4 +1,4 @@
-package com.test.rabbitmqtest.constantes;
+package constantes;
 
 public class RabbitMQConstantes {
 
